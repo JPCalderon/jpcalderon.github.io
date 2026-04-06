@@ -1,26 +1,45 @@
-# Glickmac.github.io
+# jpcalderon.github.io
 
-The repository holds the code used on my mini-website  
-[glickmac.github.io](http://glickmac.github.io).
+Professional portfolio for Juan Pablo Calderón.
 
-Feel free to use any of this code as you wish.
-It's released under a [Creative Commons Attribution-ShareAlike 3.0 International License](http://creativecommons.org/licenses/by/3.0/).
+This site is built as a static frontend with data-driven content loaded from JSON.
 
-Background photo taken by Shana Kronish, showing Milford Sound in New Zealand in the Summer of 2017. 
+## Current Architecture
 
-Flipping animation based on a [tutorial](https://davidwalsh.name/css-flip)
-by David Walsh.
+- `index.html`: single-page layout and section structure.
+- `assets/css/portfolio.css`: visual system (cold palette, responsive layout).
+- `assets/js/render.js`: client-side rendering from JSON files.
+- `data/profile.json`: personal summary, links, experience, education, skills.
+- `data/publications.json`: research publications (ADS / arXiv / DOI links).
+- `data/projects.json`: research and data-science case studies.
+- `data/stack.json`: technology stack grouped by domain.
 
-Site theme based on _Identity_ by HTML5 UP: 
-> html5up.net | @n33co
- 
-> Free for personal and commercial use under the
-> [CCA 3.0 license](http://html5up.net/license)
+## Local Development
 
-> Credits:
->* [Phil Ewels](http://phil.ewels.co.uk)
->* [Font Awesome](http://fortawesome.github.com/Font-Awesome)
->* html5shiv.js (@afarkas @jdalton @jon_neal @rem)
->* [CSS3 Pie](http://css3pie.com)
->* [Respond.js](http://j.mp/respondjs)
->* [Skel](http://skel.io)
+Serve the repository over HTTP (required for `fetch` to load JSON):
+
+```bash
+python3 -m http.server 8787
+```
+
+Open `http://localhost:8787`.
+
+## Conda Environment
+
+Requested environment for this repository:
+
+```bash
+conda create -n github.io python=3.11 -y
+conda run -n github.io python -m pip install --upgrade pip pypdf
+```
+
+`pypdf` is used to extract text from `Profile.pdf` and generate structured profile data.
+
+## Data Hygiene
+
+`.gitignore` is configured to block large/binary scientific and ML artifacts, including:
+
+- `*.fits`, `*.parquet`, `*.pth`, `*.model`
+- `data/`, `models/`, `artifacts/`, `checkpoints/`
+
+If `data/` should remain versioned for this website, keep JSON files tracked explicitly and store heavy datasets outside the repository.

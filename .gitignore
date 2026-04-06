@@ -1,0 +1,81 @@
+# ─── OS & Editor ────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── Science / Large Binary Data ────────────────────────────────────────────
+# NEVER commit these — reference them from external storage (Zenodo, S3, etc.)
+*.fits
+*.fits.gz
+*.fit
+*.fts
+*.cat
+*.reg
+*.parquet
+*.feather
+*.hdf5
+*.h5
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.csv.gz
+data/
+raw/
+processed/
+
+# ─── ML Models & Artifacts ──────────────────────────────────────────────────
+*.pth
+*.pt
+*.onnx
+*.model
+*.joblib
+*.bin         # e.g. HuggingFace weights
+models/
+artifacts/
+checkpoints/
+mlruns/
+.mlflow/
+
+# ─── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.env
+.venv
+env/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── Node / Build ───────────────────────────────────────────────────────────
+node_modules/
+dist/
+.cache/
+.parcel-cache/
+.sass-cache/
+
+# ─── Secrets & Credentials ──────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets.json
+credentials.json
+aws_credentials
+
+# ─── Logs & Temp ────────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
