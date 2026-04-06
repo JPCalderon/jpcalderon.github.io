@@ -1,0 +1,57 @@
+[
+  {
+    "id": "fornax-splus-pca",
+    "category": "research",
+    "title": "PCA on S-PLUS photometry: Fornax cluster",
+    "description": "Principal Component Analysis on 66-colour S-PLUS photometry to separate cluster members from background/foreground objects in the Fornax cluster. Combines WCS astrometry and multi-band photometric catalogues.",
+    "tech": ["Python", "Astropy", "Scikit-learn", "Plotly", "S-PLUS"],
+    "url": "proyects/Fornax/index.html",
+    "repo": "https://github.com/JPCalderon/",
+    "status": "published",
+    "highlighted": true
+  },
+  {
+    "id": "antlia-photometry",
+    "category": "research",
+    "title": "Antlia cluster — deep photometry",
+    "description": "Deep photometric survey of the Antlia galaxy cluster. WCS calibration, source detection and morphological classification of dwarf galaxy candidates.",
+    "tech": ["Python", "SExtractor", "IRAF", "Astropy"],
+    "url": "",
+    "repo": "https://github.com/JPCalderon/",
+    "status": "in-progress",
+    "highlighted": false
+  },
+  {
+    "id": "lgbm-trading",
+    "category": "data-science",
+    "title": "LightGBM trading signal pipeline",
+    "description": "End-to-end ML pipeline for intraday signal generation. Feature engineering on OHLCV data, LightGBM classifier, Optuna hyperparameter search, and real-time inference via AWS Lambda. Includes walk-forward validation to prevent leakage.",
+    "tech": ["Python", "LightGBM", "Optuna", "Dask", "AWS Lambda", "GitHub Actions"],
+    "url": "",
+    "repo": "https://github.com/JPCalderon/",
+    "status": "private",
+    "highlighted": true
+  },
+  {
+    "id": "dask-out-of-core",
+    "category": "data-science",
+    "title": "Out-of-core data processing with Dask",
+    "description": "Processing multi-GB tabular datasets that exceed RAM using Dask DataFrames. Benchmarks against Pandas and Polars, with deployment on AWS EMR Serverless for scalable ETL jobs.",
+    "tech": ["Python", "Dask", "AWS EMR", "Parquet", "S3"],
+    "url": "",
+    "repo": "https://github.com/JPCalderon/",
+    "status": "published",
+    "highlighted": false
+  },
+  {
+    "id": "mlops-sagemaker",
+    "category": "data-science",
+    "title": "MLOps pipeline on AWS SageMaker",
+    "description": "CI/CD pipeline for ML models: automated retraining, model registry, A/B deployment and drift monitoring. Infrastructure as code with Terraform. Observability via CloudWatch dashboards.",
+    "tech": ["AWS SageMaker", "Terraform", "GitHub Actions", "Python", "MLflow", "CloudWatch"],
+    "url": "",
+    "repo": "https://github.com/JPCalderon/",
+    "status": "private",
+    "highlighted": true
+  }
+]

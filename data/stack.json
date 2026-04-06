@@ -1,0 +1,31 @@
+{
+  "languages": [
+    { "name": "Python", "level": "expert" },
+    { "name": "SQL",    "level": "proficient" },
+    { "name": "Bash",   "level": "proficient" },
+    { "name": "LaTeX",  "level": "proficient" }
+  ],
+  "ml_ds": [
+    { "name": "LightGBM",       "notes": "production models, custom objectives" },
+    { "name": "Scikit-learn",   "notes": "" },
+    { "name": "Dask",           "notes": "out-of-core, distributed ETL" },
+    { "name": "Pandas / Polars","notes": "" },
+    { "name": "Optuna",         "notes": "hyperparameter optimisation" },
+    { "name": "MLflow",         "notes": "experiment tracking" }
+  ],
+  "astronomy": [
+    { "name": "Astropy",    "notes": "WCS, photometry, catalogues" },
+    { "name": "S-PLUS",     "notes": "12-band photometric survey" },
+    { "name": "SExtractor", "notes": "source detection" },
+    { "name": "Plotly",     "notes": "interactive visualisations" }
+  ],
+  "mlops_cloud": [
+    { "name": "AWS SageMaker",    "notes": "training, endpoints, pipelines" },
+    { "name": "AWS Lambda",       "notes": "real-time inference" },
+    { "name": "AWS EMR / S3",     "notes": "Dask / Spark workloads" },
+    { "name": "GitHub Actions",   "notes": "CI/CD, model retraining" },
+    { "name": "Terraform",        "notes": "IaC" },
+    { "name": "Docker",           "notes": "" },
+    { "name": "CloudWatch",       "notes": "monitoring, dashboards" }
+  ]
+}

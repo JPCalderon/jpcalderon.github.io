@@ -56,6 +56,13 @@
     if (p) p.remove();
   }
 
+  function setErrorState(id, message) {
+    const container = document.getElementById(id);
+    if (!container) return;
+    container.textContent = '';
+    container.appendChild(el('p', { className: 'loading' }, message));
+  }
+
   function renderProfile(profile) {
     const heroName = document.getElementById('hero-name');
     const heroRoles = document.getElementById('hero-roles');
@@ -265,6 +272,10 @@
     renderStack(stack);
   } catch (err) {
     console.error('[render.js]', err);
+    setErrorState('pub-list', 'Error loading publications data.');
+    setErrorState('research-projects', 'Error loading projects data.');
+    setErrorState('ds-projects', 'Error loading projects data.');
+    setErrorState('stack-grid', 'Error loading stack data.');
   }
 
 })();

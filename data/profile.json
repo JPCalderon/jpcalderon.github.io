@@ -1,0 +1,107 @@
+{
+  "name": "Juan Pablo Calderón",
+  "orcid": "0000-0003-2931-2932",
+  "headline": "Senior Data Scientist (Ph.D.) | Machine Learning & MLOps | AI & Data Solutions Consultant",
+  "location": "La Plata, Buenos Aires, Argentina",
+  "email": "juan.pablo.calderon0@gmail.com",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/juan-pablo-calderon/",
+    "github": "https://github.com/JPCalderon/",
+    "orcid": "https://orcid.org/0000-0003-2931-2932",
+    "website": "https://linktr.ee/JPCalderon"
+  },
+  "summary": "Senior Data Scientist (Ph.D.) con más de 6 años de experiencia resolviendo problemas complejos con Machine Learning. Especializado en pipelines de datos automatizados (Python/SQL), modelos productivos y despliegue cloud (AWS SageMaker, MLOps), combinando rigor científico y entrega de impacto en negocio.",
+  "experience": [
+    {
+      "company": "pss | beyond cybersecurity",
+      "role": "Data Scientist",
+      "location": "Provincia de Buenos Aires, Argentina",
+      "start": "2025-04",
+      "end": "Present",
+      "highlights": [
+        "Designed and implemented end-to-end MLOps pipelines using AWS SageMaker for training, tuning and deployment.",
+        "Orchestrated data processing and inference dependencies with AWS Step Functions.",
+        "Developed time-series forecasting models for strategic planning.",
+        "Built high-impact feature engineering workflows in Python and SQL."
+      ]
+    },
+    {
+      "company": "CONICET",
+      "role": "Data Scientist | Researcher | Investigador Adjunto",
+      "location": "Provincia de Buenos Aires, Argentina",
+      "start": "2025-11",
+      "end": "Present",
+      "highlights": [
+        "Research on low-surface-brightness elliptical galaxies with deep photometry and spectroscopy.",
+        "Cross-comparison between observed structural parameters and hydrodynamical simulations (Illustris)."
+      ]
+    },
+    {
+      "company": "CONICET",
+      "role": "Data Scientist | Researcher | Investigador Asistente",
+      "location": "Provincia de Buenos Aires, Argentina",
+      "start": "2018-11",
+      "end": "2025-10",
+      "highlights": [
+        "Advanced analysis of early-type galaxies in Antlia and Fornax environments.",
+        "Integrated observational data with statistical modeling and simulation outputs."
+      ]
+    },
+    {
+      "company": "CONICET",
+      "role": "Postdoctoral Fellow | Data Scientist & Researcher",
+      "location": "Provincia de Buenos Aires, Argentina",
+      "start": "2015-04",
+      "end": "2018-10",
+      "highlights": [
+        "Extended quantitative analysis of early-type galaxies across Antlia cluster regions.",
+        "Implemented reproducible pipelines for deep imaging and spectroscopy integration."
+      ]
+    },
+    {
+      "company": "Universidad Nacional de La Plata",
+      "role": "Lead Practical Instructor | Stellar Astronomy",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "start": "2017-11",
+      "end": "Present",
+      "highlights": [
+        "Teaching and mentoring in stellar astronomy and quantitative analysis methods."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional de La Plata",
+      "degree": "Doctor en Astronomía",
+      "field": "Astronomía y astrofísica",
+      "start": "2010-04",
+      "end": "2015-03"
+    },
+    {
+      "institution": "Universidad Nacional de La Plata",
+      "degree": "Licenciatura",
+      "field": "Astronomía",
+      "start": "2005-01",
+      "end": "2010-03"
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "LightGBM",
+    "Dask",
+    "AWS SageMaker",
+    "AWS Step Functions",
+    "MLOps",
+    "Time-Series Forecasting",
+    "Power BI",
+    "Astropy",
+    "Photometry",
+    "WCS"
+  ],
+  "languages": [
+    "Español (Native or Bilingual)",
+    "Inglés (Full Professional)",
+    "Italiano (Limited Working)"
+  ]
+}

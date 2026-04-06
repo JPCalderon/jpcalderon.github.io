@@ -23,7 +23,9 @@ Thumbs.db
 *.npy
 *.npz
 *.csv.gz
-data/
+# Keep large datasets out, but allow portfolio JSON content.
+data/*
+!data/*.json
 raw/
 processed/
 

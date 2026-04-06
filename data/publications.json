@@ -1,0 +1,568 @@
+[
+  {
+    "year": 2026,
+    "title": "The S-PLUS Fornax Project (S+FP): An extragalactic catalog covering $\\sim$ 5 virial radii around NGC 1399 with galaxy properties",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "arXiv e-prints",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260210244H/abstract",
+    "arxiv_url": "https://arxiv.org/abs/2602.10244",
+    "doi": "10.48550/arXiv.2602.10244",
+    "tags": [
+      "Fornax",
+      "S-PLUS",
+      "catalog"
+    ],
+    "highlighted": true
+  },
+  {
+    "year": 2025,
+    "title": "The S-PLUS Fornax Project (S+FP): Mapping Globular Clusters Systems within 5 Virial Radii around NGC 1399",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "The Astronomical Journal",
+    "volume": "",
+    "pages": "",
+    "ads_url": "",
+    "arxiv_url": "",
+    "doi": "10.3847/1538-3881/adbf0c",
+    "tags": [
+      "Fornax",
+      "S-PLUS",
+      "galaxy clusters",
+      "globular clusters"
+    ],
+    "highlighted": true
+  },
+  {
+    "year": 2024,
+    "title": "The S-PLUS Fornax Project (S+FP): A first 12-band glimpse of the Fornax galaxy cluster",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Monthly Notices of the Royal Astronomical Society",
+    "volume": "",
+    "pages": "",
+    "ads_url": "",
+    "arxiv_url": "",
+    "doi": "10.1093/mnras/stae840",
+    "tags": [
+      "Fornax",
+      "S-PLUS",
+      "galaxy clusters"
+    ],
+    "highlighted": true
+  },
+  {
+    "year": 2024,
+    "title": "CHANCES, The Chilean Cluster Galaxy Evolution Survey: selection and initial characterization of clusters and superclusters",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "ads_url": "",
+    "arxiv_url": "",
+    "doi": "10.48550/ARXIV.2411.13655",
+    "tags": [
+      "galaxy clusters"
+    ],
+    "highlighted": true
+  },
+  {
+    "year": 2020,
+    "title": "Early-type galaxies in the Antlia cluster: global properties",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Monthly Notices of the Royal Astronomical Society",
+    "volume": "",
+    "pages": "",
+    "ads_url": "",
+    "arxiv_url": "",
+    "doi": "10.1093/mnras/staa2043",
+    "tags": [
+      "Antlia",
+      "galaxy clusters"
+    ],
+    "highlighted": true
+  },
+  {
+    "year": 2018,
+    "title": "Primer estudio global sobre las relaciones fundamentales de la población de galaxias de tipo temprano en el cúmulo de Antlia",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2018BAAA...60..118C/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "Antlia"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2018,
+    "title": "Fotometría superficial de galaxias de tipo temprano: análisis estadístico de sus parámetros estructurales",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Terceras Jornadas de Astrofísica Estelar",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2018tjae.conf..118C/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "astrophysics"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2018,
+    "title": "Early-type galaxies in the Antlia cluster: catalogue and isophotal analysis",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Monthly Notices of the Royal Astronomical Society",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1760C/abstract",
+    "arxiv_url": "",
+    "doi": "10.1093/mnras/sty611",
+    "tags": [
+      "Antlia",
+      "catalog",
+      "galaxy clusters"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2015,
+    "title": "Early-type galaxies in the Antlia Cluster: a deep look into scaling relations",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Monthly Notices of the Royal Astronomical Society",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.451..791C/abstract",
+    "arxiv_url": "",
+    "doi": "10.1093/mnras/stv926",
+    "tags": [
+      "Antlia",
+      "galaxy clusters"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2015,
+    "title": "The extremely populated globular cluster system of the lenticular galaxy NGC 6861",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Monthly Notices of the Royal Astronomical Society",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.449..612E/abstract",
+    "arxiv_url": "",
+    "doi": "10.1093/mnras/stv283",
+    "tags": [
+      "galaxy clusters",
+      "globular clusters"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2014,
+    "title": "Ultracompact dwarfs around NGC 3268",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Monthly Notices of the Royal Astronomical Society",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2014MNRAS.442..891C/abstract",
+    "arxiv_url": "",
+    "doi": "10.1093/mnras/stu876",
+    "tags": [
+      "dwarf galaxies"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2014,
+    "title": "Searching for star-forming dwarf galaxies in the Antlia cluster",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Astronomy and Astrophysics",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2014A%26A...563A.118V/abstract",
+    "arxiv_url": "",
+    "doi": "10.1051/0004-6361/201322615",
+    "tags": [
+      "Antlia",
+      "galaxy clusters",
+      "dwarf galaxies"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2013,
+    "title": "Estudio del sistema de cúmulos globulares de la galaxia lenticular NGC6861: en busca de evidencias de una fusión.",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2013BAAA...56...69E/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "globular clusters"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2012,
+    "title": "Study of compact objects in the Antlia cluster: globular clusters and ultra-compact dwarfs",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2012BAAA...55..257C/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "Antlia",
+      "galaxy clusters",
+      "globular clusters",
+      "dwarf galaxies"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2012,
+    "title": "Study of bright globular clusters and Ultra-Compact Dwarf galaxies in the Antlia cluster.",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Second Conference on Stellar Astrophysics",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2012stas.conf...75C/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "Antlia",
+      "galaxy clusters",
+      "globular clusters",
+      "dwarf galaxies"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2012,
+    "title": "Sistema de cúmulos globulares de la galaxia lenticular NGC 6861: en busca de indicios sobre la formación de las S0s.",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2012BAAA...55..281E/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "globular clusters"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2012,
+    "title": "Relaciones fundamentales de la población de galaxias de tipo temprano del cúmulo de Antlia",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2012BAAA...55..249C/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "Antlia"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2012,
+    "title": "Galaxy populations in the Antlia cluster - III. Properties of faint early-type galaxies",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Monthly Notices of the Royal Astronomical Society",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2012MNRAS.419.2472S/abstract",
+    "arxiv_url": "",
+    "doi": "10.1111/j.1365-2966.2011.19901.x",
+    "tags": [
+      "Antlia",
+      "galaxy clusters"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2012,
+    "title": "Análisis de parámetros estructurales de galaxias enanas en el cúmulo de Antlia",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Second Conference on Stellar Astrophysics",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2012stas.conf...70C/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "Antlia"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2010,
+    "title": "The η Carinæ optical 2009.0 event, a new “eclipse-like” phenomenon",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "New Astronomy",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2010NewA...15..108F/abstract",
+    "arxiv_url": "",
+    "doi": "10.1016/j.newast.2009.06.004",
+    "tags": [
+      "astrophysics"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2010,
+    "title": "Fotometría superficial de galaxias de tipo temprano en las regiones externas del cúmulo de Antlia",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2010BAAA...53...51C/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "Antlia"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2010,
+    "title": "Analysis of radial velocities in the Antlia cluster",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2010BAAA...53...55F/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "Antlia",
+      "galaxy clusters"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2009,
+    "title": "The Recovery Phase after the 2009.0-event of eta Carinae",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Information Bulletin on Variable Stars",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2009IBVS.5915....1F/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "astrophysics"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2009,
+    "title": "VizieR Online Data Catalog: UBVRIHα of {eta} Car in 2009 (Fernandez-Lajus+ 2010)",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "VizieR Online Data Catalog (other)",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2009yCatp022001501F/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "catalog"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2009,
+    "title": "eta Carinae",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Central Bureau Electronic Telegrams",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2009CBET.1654....1F/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "astrophysics"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2009,
+    "title": "The recovery phase after the 2009.0-event of η carinæ",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Information Bulletin on Variable Stars",
+    "volume": "",
+    "pages": "",
+    "ads_url": "",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "astrophysics"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2009,
+    "title": "Long-term optical monitoring of η Carinae. Multiband light curves for a complete orbital period",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Astronomy and Astrophysics",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2009A%26A...493.1093F/abstract",
+    "arxiv_url": "",
+    "doi": "10.1051/0004-6361:200810700",
+    "tags": [
+      "astrophysics"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2008,
+    "title": "VizieR Online Data Catalog: BVRI light curves of {eta} Car (Fernandez-Lajus+, 2009)",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "VizieR Online Data Catalog",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2008yCat..34931093F/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "catalog"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2008,
+    "title": "Long term optical photometric monitoring of η CarinÆ from La Plata Observatory",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Revista Mexicana de Astronomia y Astrofisica Conference Series",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2008RMxAC..33..119F/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "photometry"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2008,
+    "title": "Long term optical photometric monitoring of η Carinæfrom La Plata observatory",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Revista Mexicana de Astronomia y Astrofisica: Serie de Conferencias",
+    "volume": "",
+    "pages": "",
+    "ads_url": "",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "photometry"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2007,
+    "title": "BVRI monitoring of Eta Carinae. The 2007 observing season",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2007BAAA...50..101F/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "astrophysics"
+    ],
+    "highlighted": false
+  },
+  {
+    "year": 2006,
+    "title": "Optical monitoring of Eta Carinae. The 2006 observing season",
+    "authors": [
+      "Calderon J.P. et al."
+    ],
+    "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+    "volume": "",
+    "pages": "",
+    "ads_url": "https://ui.adsabs.harvard.edu/abs/2006BAAA...49..156F/abstract",
+    "arxiv_url": "",
+    "doi": "",
+    "tags": [
+      "astrophysics"
+    ],
+    "highlighted": false
+  }
+]
